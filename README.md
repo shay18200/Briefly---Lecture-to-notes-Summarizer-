@@ -1,7 +1,7 @@
 # Briefly---Lecture-to-notes-Summarizer-
 A Python application that uses Tkinter and Claude AI (API) to turn lecture notes and uploaded PDF or text files into summaries.
 
-For this project, I created an application called Briefly that helps students turn their lecture materials into organized notes. Users can upload PDF or TXT files or type and paste their own notes. The app uses Claude AI to generate a summary based on the material provided.
+For this project, it was a final group project that we created with for MIS 310. Our team chose to create an application called Briefly that helps students turn their lecture materials into organized notes. Users can upload PDF or TXT files or type and paste their own notes. The app uses Claude AI to generate a summary based on the material provided.
 
 **What the app includes:**
 Upload PDF and TXT lecture files
